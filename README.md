@@ -1,4 +1,4 @@
 ### Members
 
-Talyn Veugelers - tveugele
-Komal Kaur - komalpr1
++ Talyn Veugelers - tveugele
++ Komal Kaur - komalpr1
